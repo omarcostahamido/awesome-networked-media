@@ -36,6 +36,7 @@ This is a list of real-time software tools for routing audio and video streams b
 
 ### Routing
 
+- [CamTwist](http://camtwiststudio.com/)
 - [NDI tools](https://ndi.tv/tools/)
 - [Spout](https://spout.zeal.co/) (windows-only)
 - [Syphon](http://syphon.v002.info/) (mac-only)
@@ -48,6 +49,7 @@ This is a list of real-time software tools for routing audio and video streams b
   - [[culturehub](https://www.culturehub.org/livelab)]
 - [OBS Studio](https://obsproject.com/)
 - [Touchdesigner](https://derivative.ca/)
+  - [[broadcasting](https://derivative.ca/community-post/broadcasting-social-media-touchdesigner/62737)] [[zoom](https://derivative.ca/community-post/tutorial/touchdesigner-zoom/62762)]
 - [UltraGrid](http://www.ultragrid.cz/)
 - [Whereby](https://whereby.com/)
 - [Zoom](https://zoom.us/)
