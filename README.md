@@ -36,7 +36,7 @@ This is a list of real-time software tools for routing audio and video streams b
 
 ### Routing
 
-- [CamTwist](http://camtwiststudio.com/)
+- [CamTwist](http://camtwiststudio.com/) (mac-only)
 - [NDI tools](https://ndi.tv/tools/)
 - [Spout](https://spout.zeal.co/) (windows-only)
 - [Syphon](http://syphon.v002.info/) (mac-only)
