@@ -56,6 +56,8 @@ This is a list of real-time software tools for routing audio and video streams b
 - [Touchdesigner](https://derivative.ca/)
   - [[broadcasting](https://derivative.ca/community-post/broadcasting-social-media-touchdesigner/62737)] [[zoom](https://derivative.ca/community-post/tutorial/touchdesigner-zoom/62762)] [[2020.22080](https://forum.derivative.ca/t/official-build-2020-22080-posted/131128)]
 - [UltraGrid](http://www.ultragrid.cz/)
+- [VLC](https://www.videolan.org/vlc/) - cross-platform multimedia player and framework.
+  - [[stream](https://forums.tomsguide.com/faq/how-to-stream-videos-over-the-internet-with-vlc.23235/)]
 - [Whereby](https://whereby.com/)
 - [Zoom](https://zoom.us/)
   - resources: [[LS-youtube](https://support.zoom.us/hc/en-us/articles/360028478292-Streaming-a-Meeting-or-Webinar-on-YouTube-Live)] [[LS-facebook](https://support.zoom.us/hc/en-us/articles/115000350406-Streaming-a-Meeting-or-Webinar-on-Facebook-Live)] [[LS-custom](https://support.zoom.us/hc/en-us/articles/115001777826-Live-Streaming-Meetings-or-Webinars-Using-a-Custom-Service)]
