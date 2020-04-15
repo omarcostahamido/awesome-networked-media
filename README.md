@@ -15,22 +15,25 @@ This is a list of real-time software tools for routing audio and video streams b
 
 ### Routing
 
-- [Soundflower](https://github.com/mattingalls/Soundflower) (mac-only)
-- [Loopback](https://rogueamoeba.com/loopback/) (mac-only)
-- [Black Hole](https://github.com/ExistentialAudio/BlackHole) (mac-only)
-- [Jack](https://jackaudio.org/)
-- [Virtual Audio Cable](https://www.vb-audio.com/Cable/) (windows-only)
-- [Virtual Audio Capture Device](https://github.com/rdp/virtual-audio-capture-grabber-device) (windows-only)
+- [Black Hole](https://github.com/ExistentialAudio/BlackHole) (mac-only) - virtual audio driver that allows applications to pass audio to other applications (16 ch)
+- [FlexASIO](https://github.com/dechamps/FlexASIO) (windows-only) - FlexASIO is a universal ASIO driver, that supports WASAPI (shared and exclusive), KS, DirectSound and MME.
+- [Hi-Fi CABLE & ASIO Bridge](https://www.vb-audio.com/Cable/#DownloadASIOBridge) (windows-only) - similar to VB Cable (see below) but can interface with ASIO devices.
+- [Jack](https://jackaudio.org/) - cross-platform API that enables device sharing and also inter-application audio routing
+- [Loopback](https://rogueamoeba.com/loopback/) (mac-only) - cable-free audio routing for Mac that creates virtual audio devices (up to 64ch)
+- [Soundflower](https://github.com/mattingalls/Soundflower) (mac-only) - creates 2 loopback audio devices (2ch and 64ch)
+- [VB Cable](https://www.vb-audio.com/Cable/) (windows-only) - VB-CABLE is a virtual audio device working as virtual audio cable.
+- [Virtual Audio Capture Device](https://github.com/rdp/virtual-audio-capture-grabber-device) (windows-only) - free audio capture device to capture all the "wave out sound" that is playing on your speakers
 
 ### Network
 
-- [Artsmesh](https://www.artsmesh.com/)
+- [Artsmesh](https://www.artsmesh.com/) - All-in-one app for networked music based on jacktrip allowing for P2P (up to 16 ch) and Broadcasting
 - [HQStreamer2](https://github.com/sauraen/HQStreamer2)
 - [Jacktrip](https://github.com/jacktrip/jacktrip)
   - resources: [[ccrma](https://ccrma.stanford.edu/software/jacktrip/)] [[kadenze](https://www.kadenze.com/courses/online-jamming-and-concert-technology-x/info)] [[chrischafe](http://chrischafe.net/online-jamming-and-concert-technology-online-course/)] [[mdessen](https://mdessen.com/portfolio/networked-music-performance-resources/)] [[dessen](https://docs.google.com/document/d/1YLX8NatB_Ktdr24LyVg7h_P3zwG1lh1D0A0e733mCYo/edit)] [[loveridge](https://docs.google.com/document/d/18pbu2xQRv521NKvHuYHjIVXRcLFqcDsqYnfKixyuyGg/edit)] [[jacktrip-users](https://groups.google.com/forum/#!forum/jacktrip-users)] [[och](https://github.com/omarcostahamido/One-Quick-Solution_Patches/tree/master/Other)]
 - [Jacktrip-webRTC](https://github.com/jacktrip-webrtc/jacktrip-webrtc) (in the making)
 - [Jamulus](https://github.com/corrados/jamulus) 
-- [TPF](https://gitlab.zhdk.ch/TPF)
+- [Soundjack](https://soundjack.eu/) - Soundjack is a browser-based low-latency communication system using compressed audio (OPUS)
+- [TPF](https://gitlab.zhdk.ch/TPF) - 
 
 ## Video
 
