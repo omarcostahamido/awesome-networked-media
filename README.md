@@ -27,6 +27,7 @@ This is a list of real-time software tools for routing audio and video streams b
 ### Network
 
 - [Artsmesh](https://www.artsmesh.com/) (mac-only) - All-in-one app for networked music based on jacktrip allowing for P2P (up to 16 ch) and Broadcasting.
+- [butt](https://danielnoethen.de/butt/) - butt (broadcast using this tool) is a streaming tool that supports SHOUTcast and Icecast.
 - [HQStreamer2](https://github.com/sauraen/HQStreamer2)
 - [Jacktrip](https://github.com/jacktrip/jacktrip)
   - resources: [[ccrma](https://ccrma.stanford.edu/software/jacktrip/)] [[kadenze](https://www.kadenze.com/courses/online-jamming-and-concert-technology-x/info)] [[chrischafe](http://chrischafe.net/online-jamming-and-concert-technology-online-course/)] [[mdessen](https://mdessen.com/portfolio/networked-music-performance-resources/)] [[dessen](https://docs.google.com/document/d/1YLX8NatB_Ktdr24LyVg7h_P3zwG1lh1D0A0e733mCYo/edit)] [[loveridge](https://docs.google.com/document/d/18pbu2xQRv521NKvHuYHjIVXRcLFqcDsqYnfKixyuyGg/edit)] [[jacktrip-users](https://groups.google.com/forum/#!forum/jacktrip-users)] [[och](https://github.com/omarcostahamido/One-Quick-Solution_Patches/tree/master/Other)]
