@@ -55,6 +55,7 @@ This is a list of real-time software tools for routing audio and video streams b
   - [[culturehub](https://www.culturehub.org/livelab)]
 - [OBS Studio](https://obsproject.com/)
 - [restream](https://restream.io/) - Restream allows you to stream live to 30+ social platforms at once.
+- [streamlabs](https://github.com/stream-labs/streamlabs-obs/) - open source streaming software built on OBS and Electron.
 - [Touchdesigner](https://derivative.ca/)
   - [[broadcasting](https://derivative.ca/community-post/broadcasting-social-media-touchdesigner/62737)] [[zoom](https://derivative.ca/community-post/tutorial/touchdesigner-zoom/62762)] [[2020.22080](https://forum.derivative.ca/t/official-build-2020-22080-posted/131128)]
 - [UltraGrid](http://www.ultragrid.cz/)
