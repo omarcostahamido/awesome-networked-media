@@ -32,16 +32,16 @@ This is a list of real-time software tools for routing audio and video streams b
   - [izicast](https://izicast.de/) - Icecast/Shoutcast client for iPhone and iPad
   - [pdogg](https://puredata.info/downloads/pdogg) - a library of objects for Pd for reading and writing Ogg/Vorbis streams and files.
   - [ŻyweRadio](https://github.com/kfirmanty/zywe-radio) - online radio using icecast to broadcast stream of music performed live.
-- [HQStreamer2](https://github.com/sauraen/HQStreamer2)
-- [Jacktrip](https://github.com/jacktrip/jacktrip)
+- [HQStreamer2](https://github.com/sauraen/HQStreamer2) - Stream audio between DAWs locally or across the internet using a standalone or audio plugin devices.
+- [Jacktrip](https://github.com/jacktrip/jacktrip) - multi-machine audio system used for network music performance over the Internet, that may offer the best latency using uncompressed audio.
   - resources: [[ccrma](https://ccrma.stanford.edu/software/jacktrip/)] [[kadenze](https://www.kadenze.com/courses/online-jamming-and-concert-technology-x/info)] [[chrischafe](http://chrischafe.net/online-jamming-and-concert-technology-online-course/)] [[mdessen](https://mdessen.com/portfolio/networked-music-performance-resources/)] [[dessen](https://docs.google.com/document/d/1YLX8NatB_Ktdr24LyVg7h_P3zwG1lh1D0A0e733mCYo/edit)] [[loveridge](https://docs.google.com/document/d/18pbu2xQRv521NKvHuYHjIVXRcLFqcDsqYnfKixyuyGg/edit)] [[jacktrip-users](https://groups.google.com/forum/#!forum/jacktrip-users)] [[och](https://github.com/omarcostahamido/One-Quick-Solution_Patches/tree/master/Other)]
 - [JackTrip WebRTC](https://github.com/jacktrip-webrtc/jacktrip-webrtc) (TBA) - JackTrip WebRTC is an HTML5 implementation of Jacktrip for the web browser.
-- [Jamulus](https://github.com/corrados/jamulus) 
+- [Jamulus](https://github.com/corrados/jamulus) - software that enables musicians to perform real-time jam sessions over the internet, with clients connecting to a central server.
 - [JamTaba 2](https://github.com/elieserdejesus/JamTaba/) - play online music jam sessions with musicians around the world using ninjam servers.
   - [[lines](https://llllllll.co/t/ninjam-network-jam-session/7767)]
 - [Listento](https://audiomovers.com/) - latency between 0.1 and 1 sec (PCM16 bit, PCM24 bit, PCM32 bit, AAC128, AAC192).
 - [Soundjack](https://soundjack.eu/) - Soundjack is a browser-based low-latency communication system using compressed audio (OPUS).
-- [TPF](https://gitlab.zhdk.ch/TPF) - 
+- [TPF](https://gitlab.zhdk.ch/TPF) - low-latency audio transmission software based on the jacktrip protocol and built in Pure Data.
 
 ## Video
 
