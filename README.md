@@ -26,6 +26,7 @@ This is a list of real-time software tools for routing audio and video streams b
 
 ### Network
 
+- [AOO](https://git.iem.at/cm/aoo) - Audio over OSC is aimed to be a message based audio system using Open Sound Control OSC_ as a syntax format.
 - [Artsmesh](https://www.artsmesh.com/) (mac-only) - All-in-one app for networked music based on jacktrip allowing for P2P (up to 16 ch) and Broadcasting.
 - [icecast](https://icecast.org/) - streaming media server which currently supports Ogg (Vorbis and Theora), Opus, WebM and MP3 streams.
   - [butt](https://danielnoethen.de/butt/) - butt (broadcast using this tool) is a streaming tool that supports SHOUTcast and Icecast.
@@ -40,6 +41,8 @@ This is a list of real-time software tools for routing audio and video streams b
 - [JamTaba 2](https://github.com/elieserdejesus/JamTaba/) - play online music jam sessions with musicians around the world using ninjam servers.
   - [[lines](https://llllllll.co/t/ninjam-network-jam-session/7767)]
 - [Listento](https://audiomovers.com/) - latency between 0.1 and 1 sec (PCM16 bit, PCM24 bit, PCM32 bit, AAC128, AAC192).
+- [quacktrip~](http://msp.ucsd.edu/tmp/quacktrip-2020.05.13.tgz) - a vanilla Pd jacktrip client and server (in the same object).
+  - [[jacktrip-users](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!msg/jacktrip-users/KrhojQxYy_w/3W9vDtIpAAAJ)]
 - [Soundjack](https://soundjack.eu/) - Soundjack is a browser-based low-latency communication system using compressed audio (OPUS).
 - [TPF](https://gitlab.zhdk.ch/TPF) - low-latency audio transmission software based on the jacktrip protocol and built in Pure Data.
 
