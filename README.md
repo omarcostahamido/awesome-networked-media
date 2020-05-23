@@ -15,7 +15,10 @@ This is a list of real-time software tools for routing audio and video streams b
 
 ### Routing
 
+- [Audio Routes](https://maxforlive.com/library/device/5830/audio-routes) - m4l devices to help routing audio.
+  - [[blog1](https://cycling74.com/articles/audio-routings-a-new-system-for-multi-channel-routing-in-ableton-live)] [[blog2](https://cycling74.com/articles/audio-routes-using-audio-routes-tooling-for-your-mfl-devices)]
 - [Black Hole](https://github.com/ExistentialAudio/BlackHole) (mac-only) - virtual audio driver that allows applications to pass audio to other applications (16 ch).
+- [cs.2click](https://github.com/delucis/cs.2click) - A Better Audio Router for a Modular System in Max MSP.
 - [FlexASIO](https://github.com/dechamps/FlexASIO) (windows-only) - FlexASIO is a universal ASIO driver, that supports WASAPI (shared and exclusive), KS, DirectSound and MME.
 - [Hi-Fi CABLE & ASIO Bridge](https://www.vb-audio.com/Cable/#DownloadASIOBridge) (windows-only) - similar to VB Cable (see below) but can interface with ASIO devices.
 - [Jack](https://jackaudio.org/) - cross-platform API that enables device sharing and also inter-application audio routing.
@@ -64,6 +67,7 @@ This is a list of real-time software tools for routing audio and video streams b
 - [Live Lab](https://github.com/ojack/LiveLab)
   - [[culturehub](https://www.culturehub.org/livelab)]
 - [OBS Studio](https://obsproject.com/)
+  - [[jitter](https://cycling74.com/articles/streaming-tips-the-jitter-edition)] [[msp](https://cycling74.com/articles/tips-for-streaming-your-max-patch)]
 - [restream](https://restream.io/) - Restream allows you to stream live to 30+ social platforms at once.
 - [streamlabs](https://github.com/stream-labs/streamlabs-obs/) - open source streaming software built on OBS and Electron.
 - [Touchdesigner](https://derivative.ca/)
