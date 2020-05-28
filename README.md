@@ -49,8 +49,8 @@ This is a list of real-time software tools for routing audio and video streams b
   - [[lines](https://llllllll.co/t/ninjam-network-jam-session/7767)]
 - [Listento](https://audiomovers.com/) - latency between 0.1 and 1 sec (PCM16 bit, PCM24 bit, PCM32 bit, AAC128, AAC192).
 - [nodeJsVoip](https://github.com/cracker0dks/nodeJsVoip) - A simple nodeJs Websocket VOIP application without the use of WebRTC
-- [quacktrip~](http://msp.ucsd.edu/tmp/quacktrip-test-2.tgz) - a vanilla Pd jacktrip client and server (in the same object).
-  - [[jacktrip-users](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!msg/jacktrip-users/KrhojQxYy_w/3W9vDtIpAAAJ)] [[older]((http://msp.ucsd.edu/tmp/quacktrip-2020.05.13.tgz))]
+- [quacktrip~](http://msp.ucsd.edu/tools/quacktrip/) - a vanilla Pd jacktrip client and server (in the same object).
+  - [[jacktrip-users](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!msg/jacktrip-users/KrhojQxYy_w/3W9vDtIpAAAJ)] [[old_v2](http://msp.ucsd.edu/tmp/quacktrip-test-2.tgz)] [[old_v1]((http://msp.ucsd.edu/tmp/quacktrip-2020.05.13.tgz))]
 - [Soundjack](https://soundjack.eu/) - Soundjack is a browser-based low-latency communication system using compressed audio (OPUS).
 - [TPF](https://gitlab.zhdk.ch/TPF) - low-latency audio transmission software based on the jacktrip protocol and built in Pure Data.
 
