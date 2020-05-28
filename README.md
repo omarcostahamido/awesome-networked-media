@@ -69,6 +69,7 @@ This is a list of real-time software tools for routing audio and video streams b
 - [Artsmesh](https://www.artsmesh.com/) (mac-only) - All-in-one app for networked music based on jacktrip allowing for P2P (up to 16 ch) and Broadcasting.
 - [Google Hangouts](https://hangouts.google.com/)
 - [Google Meet](https://meet.google.com/)
+- [Jitsi](https://jitsi.org/) - free video conferencing in the browser, similar to Zoom.
 - [Live Lab](https://github.com/ojack/LiveLab)
   - [[culturehub](https://www.culturehub.org/livelab)]
 - [OBS Studio](https://obsproject.com/)
