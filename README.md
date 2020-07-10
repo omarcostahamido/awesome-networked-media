@@ -62,6 +62,7 @@ This is a list of real-time software tools for routing audio and video streams b
 ### Routing
 
 - [CamTwist](http://camtwiststudio.com/) (mac-only) - broadcast live video switcher.
+- [mmhmm](https://www.mmhmm.app/) (mac-only with other platforms coming soon) - dynamic virtual backgrounds, similar to camtwist.
 - [jit.ndi](https://github.com/impsnldavid/jit.ndi) - Extensions for sending/receiving video and audio using the Newtek NDI® protocol in Cycling 74's Max.
 - [NDI tools](https://ndi.tv/tools/) - free suite of Network Device Interface (NDI) tools for real time, ultra low latency video on existing IP video networks.
 - [Spout](https://spout.zeal.co/) (windows-only) - Realtime video sharing framework for Windows (similar to Syphon).
