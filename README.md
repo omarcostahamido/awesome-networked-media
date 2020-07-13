@@ -55,6 +55,7 @@ This is a list of real-time software tools for routing audio and video streams b
   - [[https://assetstore.unity.com/packages/tools/network/photon-unity-networking-classic-free-1786#description](unity-asset)]
 - [quacktrip~](http://msp.ucsd.edu/tools/quacktrip/) - a vanilla Pd jacktrip client and server (in the same object).
   - [[jacktrip-users](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!msg/jacktrip-users/KrhojQxYy_w/3W9vDtIpAAAJ)] [[old_v2](http://msp.ucsd.edu/tmp/quacktrip-test-2.tgz)] [[old_v1]((http://msp.ucsd.edu/tmp/quacktrip-2020.05.13.tgz))]
+- [Sagora](https://www.sagora.org/index-por.html) - free software, designed and developed by artists/researchers from the School of Arts of the National University of Quilmes, Argentina. It allows to connect multiple users in a virtual room and transmit audio in real time.
 - [Soundjack](https://soundjack.eu/) - Soundjack is a browser-based low-latency communication system using compressed audio (OPUS).
 - [TPF](https://gitlab.zhdk.ch/TPF) - low-latency audio transmission software based on the jacktrip protocol and built in Pure Data.
 
