@@ -72,6 +72,7 @@ This is a list of real-time software tools for routing audio and video streams b
 ### Network
 
 - [Artsmesh](https://www.artsmesh.com/) (mac-only) - All-in-one app for networked music based on jacktrip allowing for P2P (up to 16 ch) and Broadcasting.
+- [Digital Stage](https://digital-stage.org/) - multi platform implementation for audio-video conference call for art, music and theater companies to rehearse.
 - [Google Hangouts](https://hangouts.google.com/)
 - [Google Meet](https://meet.google.com/)
 - [Jitsi](https://jitsi.org/) - free video conferencing in the browser, similar to Zoom.
