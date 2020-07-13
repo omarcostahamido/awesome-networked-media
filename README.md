@@ -35,6 +35,7 @@ This is a list of real-time software tools for routing audio and video streams b
 - [Cleanfeed](https://cleanfeed.net/) - multitrack, multi-party live audio and recording using only a browser.
 - [EasyRTC](https://github.com/open-easyrtc/open-easyrtc) - WebRTC based implementation, originally forked from [priologic](https://github.com/priologic/).
   - [[website](https://easyrtc.com/products/easyrtc/)]
+- [Fastmusic Box](http://symonics.com/fastmusic/) - hardware package with pre configured setup based on soundjack.eu
 - [icecast](https://icecast.org/) - streaming media server which currently supports Ogg (Vorbis and Theora), Opus, WebM and MP3 streams.
   - [butt](https://danielnoethen.de/butt/) - butt (broadcast using this tool) is a streaming tool that supports SHOUTcast and Icecast.
   - [izicast](https://izicast.de/) - Icecast/Shoutcast client for iPhone and iPad
