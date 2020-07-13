@@ -50,6 +50,7 @@ This is a list of real-time software tools for routing audio and video streams b
   - [[lines](https://llllllll.co/t/ninjam-network-jam-session/7767)]
 - [Listento](https://audiomovers.com/) - latency between 0.1 and 1 sec (PCM16 bit, PCM24 bit, PCM32 bit, AAC128, AAC192).
 - [nodeJsVoip](https://github.com/cracker0dks/nodeJsVoip) - A simple nodeJs Websocket VOIP application without the use of WebRTC
+- [ovbox](https://github.com/gisogrimm/ovbox) - remote collaboration box developed by the ensemble ORLANDOviols using open source software and open or standardized hardware.
 - [photon](https://www.photonengine.com/en/Photon) - networking engine and multiplayer platform for Unity
   - [[https://assetstore.unity.com/packages/tools/network/photon-unity-networking-classic-free-1786#description](unity-asset)]
 - [quacktrip~](http://msp.ucsd.edu/tools/quacktrip/) - a vanilla Pd jacktrip client and server (in the same object).
