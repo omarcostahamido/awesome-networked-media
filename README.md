@@ -10,6 +10,7 @@ This is a list of real-time software tools for routing audio and video streams b
 - [Video](#video)
   - [routing](#routing-1)
   - [network](#network-1)
+- [Other](#other)
 
 ## Audio
 
@@ -94,3 +95,8 @@ This is a list of real-time software tools for routing audio and video streams b
 - [Whereby](https://whereby.com/)
 - [Zoom](https://zoom.us/)
   - resources: [[LS-youtube](https://support.zoom.us/hc/en-us/articles/360028478292-Streaming-a-Meeting-or-Webinar-on-YouTube-Live)] [[LS-facebook](https://support.zoom.us/hc/en-us/articles/115000350406-Streaming-a-Meeting-or-Webinar-on-Facebook-Live)] [[LS-custom](https://support.zoom.us/hc/en-us/articles/115001777826-Live-Streaming-Meetings-or-Webinars-Using-a-Custom-Service)]
+
+## Other
+
+- [bf-pd](http://bf-collab.net/) -  Pure Data based software that allows musicians to share parameters and output data between instruments, to control each other’s instruments, to synchronize between instruments, to visualize each other’s activity, and to exchange messages
+  - [[gitlab](https://gitlab.cristal.univ-lille.fr/boeuf/bf-pd)]
