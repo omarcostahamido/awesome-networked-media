@@ -25,6 +25,7 @@ This is a list of real-time software tools for routing audio and video streams b
 - [Jack](https://jackaudio.org/) - cross-platform API that enables device sharing and also inter-application audio routing.
 - [Loopback](https://rogueamoeba.com/loopback/) (mac-only) - cable-free audio routing for Mac that creates virtual audio devices (up to 64ch).
 - [OBSAudioRouter](https://github.com/lysdexic-audio/OBSAudioRouter) - A simple microphone + external audiodevices passthrough/rerouter for MacOS
+- [Sound Control](https://staticz.com/soundcontrol/) (mac only) - per app volume, eq, and device routing control.
 - [Soundflower](https://github.com/mattingalls/Soundflower) (mac-only) - creates 2 loopback audio devices (2ch and 64ch).
 - [VB Cable](https://www.vb-audio.com/Cable/) (windows-only) - VB-CABLE is a virtual audio device working as virtual audio cable.
 - [Virtual Audio Capture Device](https://github.com/rdp/virtual-audio-capture-grabber-device) (windows-only) - free audio capture device to capture all the "wave out sound" that is playing on your speakers.
