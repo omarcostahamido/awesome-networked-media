@@ -63,6 +63,7 @@ This is a list of real-time software tools for routing audio and video streams b
 - [Sagora](https://www.sagora.org/index-por.html) - free software, designed and developed by artists/researchers from the School of Arts of the National University of Quilmes, Argentina. It allows to connect multiple users in a virtual room and transmit audio in real time.
 - [Soundjack](https://soundjack.eu/) - Soundjack is a browser-based low-latency communication system using compressed audio (OPUS).
 - [TPF](https://gitlab.zhdk.ch/TPF) - low-latency audio transmission software based on the jacktrip protocol and built in Pure Data.
+- [Virtual Rehearsal Room](https://vrr.iem.sh/) - [Pd based] an Auditory Virtual Environment for musicians playing together @home , @studio and @stage.
 
 ## Video
 
