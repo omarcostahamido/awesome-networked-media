@@ -24,6 +24,7 @@ This is a list of real-time software tools for routing audio and video streams b
 - [Hi-Fi CABLE & ASIO Bridge](https://www.vb-audio.com/Cable/#DownloadASIOBridge) (windows-only) - similar to VB Cable (see below) but can interface with ASIO devices.
 - [Jack](https://jackaudio.org/) - cross-platform API that enables device sharing and also inter-application audio routing.
   - [[JackRouter on Windows](https://jackaudio.org/faq/jack_on_windows.html)] [[Catalina support discussion](https://github.com/jackaudio/jackaudio.github.com/issues/92)]
+- [JackBridge](https://github.com/madhatter68/JackRouter) (mac-only) - an alternative to jackrouter for MacOS which acts as virtual audio interface (currently 2in-4out) connected to Jackaudio server directly.
 - [Loopback](https://rogueamoeba.com/loopback/) (mac-only) - cable-free audio routing for Mac that creates virtual audio devices (up to 64ch).
 - [OBSAudioRouter](https://github.com/lysdexic-audio/OBSAudioRouter) (mac-only) - A simple microphone + external audiodevices passthrough/rerouter for MacOS
 - [ODeus ASIO Link Pro](https://give.academy/posts/2018/03/02/AsioLinkPro/) (windows-only) - driver level audio routing solution for windows
