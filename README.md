@@ -14,7 +14,7 @@ This is a list of real-time software tools for routing audio and video streams b
 
 ## Audio
 
-### Routing
+### Audio Routing
 
 - [Audio Routes](https://maxforlive.com/library/device/5830/audio-routes) - m4l devices to help routing audio.
   - [[blog1](https://cycling74.com/articles/audio-routings-a-new-system-for-multi-channel-routing-in-ableton-live)] [[blog2](https://cycling74.com/articles/audio-routes-using-audio-routes-tooling-for-your-mfl-devices)]
@@ -35,7 +35,7 @@ This is a list of real-time software tools for routing audio and video streams b
 - [VB Cable](https://www.vb-audio.com/Cable/) (windows-only) - VB-CABLE is a virtual audio device working as virtual audio cable.
 - [Virtual Audio Capture Device](https://github.com/rdp/virtual-audio-capture-grabber-device) (windows-only) - free audio capture device to capture all the "wave out sound" that is playing on your speakers.
 
-### Network
+### Audio Networking
 
 - [\_noisecrypt](https://low.show/noisecrypt/) - web based audio streamming app.
 - [AOO](https://git.iem.at/cm/aoo) - Audio over OSC is aimed to be a message based audio system using Open Sound Control OSC_ as a syntax format.
@@ -76,7 +76,7 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
 
 ## Video
 
-### Routing
+### Video Routing
 
 - [CamTwist](http://camtwiststudio.com/) (mac-only) - broadcast live video switcher.
 - [mmhmm](https://www.mmhmm.app/) (mac-only with other platforms coming soon) - dynamic virtual backgrounds, similar to camtwist.
@@ -85,7 +85,7 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
 - [Spout](https://spout.zeal.co/) (windows-only) - Realtime video sharing framework for Windows (similar to Syphon).
 - [Syphon](http://syphon.v002.info/) (mac-only) - Mac OS X technology that allows applications to share frames - full frame rate video or stills - with one another in realtime.
 
-### Network
+### Video Networking
 
 - [Artsmesh](https://www.artsmesh.com/) (mac-only) - All-in-one app for networked music based on jacktrip allowing for P2P (up to 16 ch) and Broadcasting.
 - [Digital Stage](https://digital-stage.org/) - multi platform implementation for audio-video conference call for art, music and theater companies to rehearse.
@@ -98,6 +98,7 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
   - [[jitter](https://cycling74.com/articles/streaming-tips-the-jitter-edition)] [[msp](https://cycling74.com/articles/tips-for-streaming-your-max-patch)]
 - [restream](https://restream.io/) - Restream allows you to stream live to 30+ social platforms at once.
 - [streamlabs](https://github.com/stream-labs/streamlabs-obs/) - open source streaming software built on OBS and Electron.
+-[Streamyard](https://streamyard.com) - In-browser streaming studio, with basic free option and paid tiers.
 - [Touchdesigner](https://derivative.ca/)
   - [[broadcasting](https://derivative.ca/community-post/broadcasting-social-media-touchdesigner/62737)] [[zoom](https://derivative.ca/community-post/tutorial/touchdesigner-zoom/62762)] [[2020.22080](https://forum.derivative.ca/t/official-build-2020-22080-posted/131128)] [[iglive](https://derivative.ca/community-post/tutorial/streaming-instagram-live/62828)]
 - [UltraGrid](http://www.ultragrid.cz/)
