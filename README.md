@@ -93,7 +93,7 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
 - [Google Meet](https://meet.google.com/)
 - [Jitsi](https://jitsi.org/) - free video conferencing in the browser, similar to Zoom.
 - [Live Lab](https://github.com/ojack/LiveLab)
-  - [[culturehub](https://www.culturehub.org/livelab)]
+  - [[culturehub](https://www.culturehub.org/livelab)] [[comparing2zoom](https://docs.google.com/spreadsheets/d/1jJNNtkoSH1FunCPHS2Z05MzdUMkU_KMe71uPimGF94Q/edit#gid=0)]
 - [OBS Studio](https://obsproject.com/)
   - [[jitter](https://cycling74.com/articles/streaming-tips-the-jitter-edition)] [[msp](https://cycling74.com/articles/tips-for-streaming-your-max-patch)]
 - [restream](https://restream.io/) - Restream allows you to stream live to 30+ social platforms at once.
