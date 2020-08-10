@@ -4,15 +4,12 @@ This is a list of real-time software tools for routing audio and video streams b
 
 ## Contents
 
-- [Audio](#audio)
-  - [routing](#routing)
-  - [network](#network)
-- [Video](#video)
-  - [routing](#routing-1)
-  - [network](#network-1)
+- [Audio Routing](#audio-routing)
+- [Audio networking](#audio-networking)
+- [Video Routing](#video-routing)
+- [Video Networking](#video-networking)
 - [Other](#other)
 
-## Audio
 
 ### Audio Routing
 
