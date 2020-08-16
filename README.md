@@ -71,8 +71,6 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
 - [TPF](https://gitlab.zhdk.ch/TPF) - low-latency audio transmission software based on the jacktrip protocol and built in Pure Data.
 - [Virtual Rehearsal Room](https://vrr.iem.sh/) - [Pd based] an Auditory Virtual Environment for musicians playing together @home , @studio and @stage.
 
-## Video
-
 ### Video Routing
 
 - [CamTwist](http://camtwiststudio.com/) (mac-only) - broadcast live video switcher.
@@ -106,7 +104,7 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
 - [Zoom](https://zoom.us/)
   - resources: [[LS-youtube](https://support.zoom.us/hc/en-us/articles/360028478292-Streaming-a-Meeting-or-Webinar-on-YouTube-Live)] [[LS-facebook](https://support.zoom.us/hc/en-us/articles/115000350406-Streaming-a-Meeting-or-Webinar-on-Facebook-Live)] [[LS-custom](https://support.zoom.us/hc/en-us/articles/115001777826-Live-Streaming-Meetings-or-Webinars-Using-a-Custom-Service)]
 
-## Other
+### Other
 
 - [bf-pd](http://bf-collab.net/) -  Pure Data based software that allows musicians to share parameters and output data between instruments, to control each other’s instruments, to synchronize between instruments, to visualize each other’s activity, and to exchange messages
   - [[gitlab](https://gitlab.cristal.univ-lille.fr/boeuf/bf-pd)]
