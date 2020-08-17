@@ -94,8 +94,9 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
 - [OBS Studio](https://obsproject.com/)
   - [[jitter](https://cycling74.com/articles/streaming-tips-the-jitter-edition)] [[msp](https://cycling74.com/articles/tips-for-streaming-your-max-patch)]
 - [restream](https://restream.io/) - Restream allows you to stream live to 30+ social platforms at once.
+- [sococo](https://www.sococo.com/) - online workplace where distributed teams come to work together each day, side-by-side.
 - [streamlabs](https://github.com/stream-labs/streamlabs-obs/) - open source streaming software built on OBS and Electron.
--[Streamyard](https://streamyard.com) - In-browser streaming studio, with basic free option and paid tiers.
+- [Streamyard](https://streamyard.com) - In-browser streaming studio, with basic free option and paid tiers.
 - [Touchdesigner](https://derivative.ca/)
   - [[broadcasting](https://derivative.ca/community-post/broadcasting-social-media-touchdesigner/62737)] [[zoom](https://derivative.ca/community-post/tutorial/touchdesigner-zoom/62762)] [[2020.22080](https://forum.derivative.ca/t/official-build-2020-22080-posted/131128)] [[iglive](https://derivative.ca/community-post/tutorial/streaming-instagram-live/62828)]
 - [UltraGrid](http://www.ultragrid.cz/)
