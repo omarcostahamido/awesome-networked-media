@@ -58,6 +58,7 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
   - [[lines](https://llllllll.co/t/ninjam-network-jam-session/7767)]
 - [Jamulus](https://github.com/corrados/jamulus) - software that enables musicians to perform real-time jam sessions over the internet, with clients connecting to a central server.
 - [Listento](https://audiomovers.com/) - latency between 0.1 and 1 sec (PCM16 bit, PCM24 bit, PCM32 bit, AAC128, AAC192).
+- [Netty McNetface](http://msp.ucsd.edu/tools/quacktrip/) - a multi-user version of quacktrip~ that relies on a central repeater.
 - [nodeJsVoip](https://github.com/cracker0dks/nodeJsVoip) - A simple nodeJs Websocket VOIP application without the use of WebRTC
 - [ovbox](https://github.com/gisogrimm/ovbox) - remote collaboration box developed by the ensemble ORLANDOviols using open source software and open or standardized hardware.
 - [photon](https://www.photonengine.com/en/Photon) - networking engine and multiplayer platform for Unity
