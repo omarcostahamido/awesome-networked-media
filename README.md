@@ -98,6 +98,7 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
 - [OBS Studio](https://obsproject.com/)
   - [[jitter](https://cycling74.com/articles/streaming-tips-the-jitter-edition)] [[msp](https://cycling74.com/articles/tips-for-streaming-your-max-patch)]
 - [restream](https://restream.io/) - Restream allows you to stream live to 30+ social platforms at once.
+- [Skype](https://www.skype.com/) - a telecommunications application that specializes in providing video chat and voice calls between computers, tablets, mobile devices, the Xbox One console, and smartwatches over the Internet. 
 - [sococo](https://www.sococo.com/) - online workplace where distributed teams come to work together each day, side-by-side.
 - [streamlabs](https://github.com/stream-labs/streamlabs-obs/) - open source streaming software built on OBS and Electron.
 - [Streamyard](https://streamyard.com) - In-browser streaming studio, with basic free option and paid tiers.
