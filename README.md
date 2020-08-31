@@ -60,6 +60,7 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
 - [Listento](https://audiomovers.com/) - latency between 0.1 and 1 sec (PCM16 bit, PCM24 bit, PCM32 bit, AAC128, AAC192).
 - [Netty McNetface](http://msp.ucsd.edu/tools/quacktrip/) - a multi-user version of quacktrip~ that relies on a central repeater.
   - resources: [[mdessen](https://docs.google.com/document/d/1llld1vvYUPfsogMyPhUOIGb7ZYsUV8JA4i4yjyKWT78/edit)]
+- [ninjam](https://www.cockos.com/ninjam/) - open source (GPL) software to allow people to make real music together via the Internet, NINJAM uses compressed audio, and Latency in NINJAM is measured in measures.
 - [nodeJsVoip](https://github.com/cracker0dks/nodeJsVoip) - A simple nodeJs Websocket VOIP application without the use of WebRTC
 - [ovbox](https://github.com/gisogrimm/ovbox) - remote collaboration box developed by the ensemble ORLANDOviols using open source software and open or standardized hardware.
 - [photon](https://www.photonengine.com/en/Photon) - networking engine and multiplayer platform for Unity
