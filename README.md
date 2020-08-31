@@ -105,6 +105,8 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
   - [[broadcasting](https://derivative.ca/community-post/broadcasting-social-media-touchdesigner/62737)] [[zoom](https://derivative.ca/community-post/tutorial/touchdesigner-zoom/62762)] [[2020.22080](https://forum.derivative.ca/t/official-build-2020-22080-posted/131128)] [[iglive](https://derivative.ca/community-post/tutorial/streaming-instagram-live/62828)]
 - [UltraGrid](http://www.ultragrid.cz/)
   - [[Spout/Syphon](https://iaspace.zhdk.ch/wiki/ultragrid/)]
+- [UpStage](https://upstage.org.nz/) - a platform for cyberformance: remote players combine digital media in real-time for an online audience. All you need is a web browser!
+  - resources: [[github](https://github.com/upstage-org)] [[https://en.wikipedia.org/wiki/UpStage](wiki)]
 - [VLC](https://www.videolan.org/vlc/) - cross-platform multimedia player and framework.
   - [[stream](https://forums.tomsguide.com/faq/how-to-stream-videos-over-the-internet-with-vlc.23235/)]
 - [Whereby](https://whereby.com/)
