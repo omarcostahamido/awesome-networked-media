@@ -22,6 +22,7 @@ This is a list of real-time software tools for routing audio and video streams b
 - [Jack](https://jackaudio.org/) - cross-platform API that enables device sharing and also inter-application audio routing.
   - [[JackRouter on Windows](https://jackaudio.org/faq/jack_on_windows.html)] [[Catalina support discussion](https://github.com/jackaudio/jackaudio.github.com/issues/92)]
 - [JackBridge](https://github.com/madhatter68/JackRouter) (mac-only) - an alternative to jackrouter for MacOS which acts as virtual audio interface (currently 2in-4out) connected to Jackaudio server directly.
+- [JackBridge (older version)](https://sourceforge.net/projects/jackbridge/) - JackBridge is an adapter library designed to allow legacy applications use the Jack Audio Connection Kit. It is also useful when a client application can't be easily adapted to Jack's requirements (callback API, sample rate and/or sample format).
 - [Node.JS JACK-connector](https://github.com/unclechu/node-jack-connector) - Bindings JACK-Audio-Connection-Kit for Node.JS
 - [Loopback](https://rogueamoeba.com/loopback/) (mac-only) - cable-free audio routing for Mac that creates virtual audio devices (up to 64ch).
 - [OBSAudioRouter](https://github.com/lysdexic-audio/OBSAudioRouter) (mac-only) - A simple microphone + external audiodevices passthrough/rerouter for MacOS
