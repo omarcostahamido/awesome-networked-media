@@ -123,6 +123,7 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
 
 - [bf-pd](http://bf-collab.net/) -  Pure Data based software that allows musicians to share parameters and output data between instruments, to control each other’s instruments, to synchronize between instruments, to visualize each other’s activity, and to exchange messages
   - [[gitlab](https://gitlab.cristal.univ-lille.fr/boeuf/bf-pd)]
+- [networkedmusicperformance](https://www.zotero.org/groups/2520287/networkedmusicperformance/items/7I4ZA6KZ/library) - a zotero library of references related to networked music performance.
 - [link](https://www.ableton.com/en/link/) - Ableton Link is a technology that keeps devices in time over a local network.
 
 
