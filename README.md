@@ -60,7 +60,6 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
   - [[lines](https://llllllll.co/t/ninjam-network-jam-session/7767)]
 - [Jamulus](https://github.com/corrados/jamulus) - software that enables musicians to perform real-time jam sessions over the internet, with clients connecting to a central server.
 - [Listento](https://audiomovers.com/) - latency between 0.1 and 1 sec (PCM16 bit, PCM24 bit, PCM32 bit, AAC128, AAC192).
-- [mediaXploration](https://mediax.stanford.edu/featured-events/mediaxploration/) - an experimental virtual and immersive environment.
 - [Netty McNetface](http://msp.ucsd.edu/tools/quacktrip/) - a multi-user version of quacktrip~ that relies on a central repeater.
   - resources: [[mdessen](https://docs.google.com/document/d/1llld1vvYUPfsogMyPhUOIGb7ZYsUV8JA4i4yjyKWT78/edit)]
 - [ninjam](https://www.cockos.com/ninjam/) - open source (GPL) software to allow people to make real music together via the Internet, NINJAM uses compressed audio, and Latency in NINJAM is measured in measures.
@@ -100,6 +99,7 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
 - [Jitsi](https://jitsi.org/) - free video conferencing in the browser, similar to Zoom.
 - [Live Lab](https://github.com/ojack/LiveLab)
   - [[culturehub](https://www.culturehub.org/livelab)] [[comparing2zoom](https://docs.google.com/spreadsheets/d/1jJNNtkoSH1FunCPHS2Z05MzdUMkU_KMe71uPimGF94Q/edit#gid=0)]
+- [mediaXploration](https://mediax.stanford.edu/featured-events/mediaxploration/) - an experimental virtual and immersive environment.
 - [OBS Studio](https://obsproject.com/)
   - [[jitter](https://cycling74.com/articles/streaming-tips-the-jitter-edition)] [[msp](https://cycling74.com/articles/tips-for-streaming-your-max-patch)]
 - [restream](https://restream.io/) - Restream allows you to stream live to 30+ social platforms at once.
