@@ -60,6 +60,7 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
   - [[lines](https://llllllll.co/t/ninjam-network-jam-session/7767)]
 - [Jamulus](https://github.com/corrados/jamulus) - software that enables musicians to perform real-time jam sessions over the internet, with clients connecting to a central server.
 - [Listento](https://audiomovers.com/) - latency between 0.1 and 1 sec (PCM16 bit, PCM24 bit, PCM32 bit, AAC128, AAC192).
+- [mediaXploration](https://mediax.stanford.edu/featured-events/mediaxploration/) - an experimental virtual and immersive environment.
 - [Netty McNetface](http://msp.ucsd.edu/tools/quacktrip/) - a multi-user version of quacktrip~ that relies on a central repeater.
   - resources: [[mdessen](https://docs.google.com/document/d/1llld1vvYUPfsogMyPhUOIGb7ZYsUV8JA4i4yjyKWT78/edit)]
 - [ninjam](https://www.cockos.com/ninjam/) - open source (GPL) software to allow people to make real music together via the Internet, NINJAM uses compressed audio, and Latency in NINJAM is measured in measures.
