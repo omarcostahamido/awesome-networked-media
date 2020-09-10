@@ -70,6 +70,7 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
 - [QJackTrip](https://www.psi-borg.org/QJackTrip.msi) - Aaron Wyatt compiled version of Jacktrip for running the client on Windows, which also includes his new GUI.
 - [quacktrip~](http://msp.ucsd.edu/tools/quacktrip/) - a vanilla Pd jacktrip client and server (in the same object).
   - [[jacktrip-users](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!msg/jacktrip-users/KrhojQxYy_w/3W9vDtIpAAAJ)] [[old_v2](http://msp.ucsd.edu/tmp/quacktrip-test-2.tgz)] [[old_v1]((http://msp.ucsd.edu/tmp/quacktrip-2020.05.13.tgz))]
+- [quacktrip VST](http://msp.ucsd.edu/tools/quacktrip/) - VST version of quacktrip~ by Miller Puckette.
 - [Quack4](https://github.com/fdch/Quack4) - A quacktrip v0.5 plugin that handles a 3 way connection.
 - [QuaxTrip](https://github.com/damonholzborn/QuaxTrip) - Max patch encapsulating the Quack4, a VST version of Miller Puckette's QuackTrip, a Pd implementation of JackTrip.
 - [raspberry-jam](https://github.com/rbultman/raspberry-jam) - Use a Raspberry Pi and audio shield to connect musicians, or poets, together from distant locations.
