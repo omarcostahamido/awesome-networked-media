@@ -78,6 +78,7 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
 - [Sagora](https://www.sagora.org/index-por.html) - free software, designed and developed by artists/researchers from the School of Arts of the National University of Quilmes, Argentina. It allows to connect multiple users in a virtual room and transmit audio in real time.
 - [Soundjack](https://soundjack.eu/) - Soundjack is a browser-based low-latency communication system using compressed audio (OPUS).
 - [Source-Live](https://source-elements.com/products/source-live) (mac-only) - High quality, low latency, encrypted audio and video streaming, in sync from your DAW.
+- [Source-connect](https://source-elements.com/products/source-connect) - ISDN replacement with a deep feature-set for remote audio recording and monitoring needs.
 - [TPF](https://gitlab.zhdk.ch/TPF) - low-latency audio transmission software based on the jacktrip protocol and built in Pure Data.
 - [Virtual Rehearsal Room](https://vrr.iem.sh/) - [Pd based] an Auditory Virtual Environment for musicians playing together @home , @studio and @stage.
 - [VST Connect](https://new.steinberg.net/vst-connect/) - a fully-featured, remote recording solution that lets anybody record a musician or other performer in professional quality, regardless of where each of them is on the planet.
