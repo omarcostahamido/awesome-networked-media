@@ -76,6 +76,7 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
 - [QuaxTrip](https://github.com/damonholzborn/QuaxTrip) - Max patch encapsulating the Quack4, a VST version of Miller Puckette's QuackTrip, a Pd implementation of JackTrip.
 - [raspberry-jam](https://github.com/rbultman/raspberry-jam) - Use a Raspberry Pi and audio shield to connect musicians, or poets, together from distant locations.
 - [Sagora](https://www.sagora.org/index-por.html) - free software, designed and developed by artists/researchers from the School of Arts of the National University of Quilmes, Argentina. It allows to connect multiple users in a virtual room and transmit audio in real time.
+- [SonoBus](https://sonobus.net/) - streaming high-quality, low-latency peer-to-peer audio between devices over the internet or a local network.
 - [Soundjack](https://soundjack.eu/) - Soundjack is a browser-based low-latency communication system using compressed audio (OPUS).
 - [Source-Live](https://source-elements.com/products/source-live) (mac-only) - High quality, low latency, encrypted audio and video streaming, in sync from your DAW.
 - [Source-connect](https://source-elements.com/products/source-connect) - ISDN replacement with a deep feature-set for remote audio recording and monitoring needs.
