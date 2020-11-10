@@ -97,6 +97,7 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
 
 - [Artsmesh](https://www.artsmesh.com/) (mac-only) - All-in-one app for networked music based on jacktrip allowing for P2P (up to 16 ch) and Broadcasting.
 - [Digital Stage](https://digital-stage.org/) - multi platform implementation for audio-video conference call for art, music and theater companies to rehearse.
+- [Gather](https://gather.town/) - Proximity video chat in fully customizable, 2D interactive spaces
 - [Google Hangouts](https://hangouts.google.com/)
 - [Google Meet](https://meet.google.com/)
 - [iWebVisit](https://www.iwebvisit.com/) - Inmate visitation online app.
