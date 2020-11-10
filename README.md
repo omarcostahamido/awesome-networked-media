@@ -133,6 +133,10 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
 - [Network-Based Collaborative Music Making](https://stefanofasciani.com/?p=1550) - a list of different tools and other references related to networked media, by Stefano Fasciani.
 - [networkedmusicperformance](https://www.zotero.org/groups/2520287/networkedmusicperformance/items/7I4ZA6KZ/library) - a zotero library of references related to networked music performance.
 
+- [hackernews](https://news.ycombinator.com/news)
+
+- [producthunt](https://www.producthunt.com/)
+
 <p>
   <details><summary>Feel free to cite this:</summary> 
     
