@@ -62,6 +62,8 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
 - [Jamtrip](https://github.com/vicwomg/jamtrip) - A cross-platform, electron-based, graphical user interface (GUI) front end for JackTrip and JACK.
 - [Jamulus](https://github.com/corrados/jamulus) - software that enables musicians to perform real-time jam sessions over the internet, with clients connecting to a central server.
 - [Listento](https://audiomovers.com/) - latency between 0.1 and 1 sec (PCM16 bit, PCM24 bit, PCM32 bit, AAC128, AAC192).
+- [netsend~](http://www.nullmedium.de/dev/netsend~/) - (old) streaming externals for Max/MSP and Pure Data that allow high quality, uncompressed multichannel audio to be transmitted over LAN or Internet2 with very low latency.
+  - see also: [[udpsend~](https://github.com/pd-l2ork/pd/blob/master/externals/mrpeach/net/udpsend~.c)] [[~bcast](https://github.com/joniemi/dist-conv)]
 - [Netty McNetface](http://msp.ucsd.edu/tools/quacktrip/) - a multi-user version of quacktrip~ that relies on a central repeater.
   - resources: [[mdessen](https://docs.google.com/document/d/1llld1vvYUPfsogMyPhUOIGb7ZYsUV8JA4i4yjyKWT78/edit)]
 - [ninjam](https://www.cockos.com/ninjam/) - open source (GPL) software to allow people to make real music together via the Internet, NINJAM uses compressed audio, and Latency in NINJAM is measured in measures.
