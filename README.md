@@ -27,6 +27,8 @@ This is a list of real-time software tools for routing audio and video streams b
 - [Loopback](https://rogueamoeba.com/loopback/) (mac-only) - cable-free audio routing for Mac that creates virtual audio devices (up to 64ch).
 - [OBSAudioRouter](https://github.com/lysdexic-audio/OBSAudioRouter) (mac-only) - A simple microphone + external audiodevices passthrough/rerouter for MacOS
 - [ODeus ASIO Link Pro](https://give.academy/posts/2018/03/02/AsioLinkPro/) (windows-only) - driver level audio routing solution for windows
+- [PipeWire](https://pipewire.org/) (linux only) a project that aims to greatly improve handling of audio and video under Linux.
+- [PulseAudio](https://www.freedesktop.org/wiki/Software/PulseAudio/) PulseAudio is a sound system for POSIX OSes, meaning that it is a proxy for your sound applications.
 - [pd~](http://msp.ucsd.edu/software.htm) - max/msp external that allows Max to call a Pd subprocess.
 - [simplejack](https://github.com/mildsunrise/simplejack) - This Nodejs module enables you to register simple JACK clients.
 - [Sound Control](https://staticz.com/soundcontrol/) (mac only) - per app volume, eq, and device routing control.
@@ -93,6 +95,7 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
 - [mmhmm](https://www.mmhmm.app/) (mac-only with other platforms coming soon) - dynamic virtual backgrounds, similar to camtwist.
 - [jit.ndi](https://github.com/impsnldavid/jit.ndi) - Extensions for sending/receiving video and audio using the Newtek NDI® protocol in Cycling 74's Max.
 - [NDI tools](https://ndi.tv/tools/) - free suite of Network Device Interface (NDI) tools for real time, ultra low latency video on existing IP video networks.
+- [PipeWire](https://pipewire.org/) (linux only) a project that aims to greatly improve handling of audio and video under Linux.
 - [shmdata](https://gitlab.com/sat-metalab/shmdata) - Library to share streams of framed data between processes via shared memory.
 - [Spout](https://spout.zeal.co/) (windows-only) - Realtime video sharing framework for Windows (similar to Syphon).
 - [Syphon](http://syphon.v002.info/) (mac-only) - Mac OS X technology that allows applications to share frames - full frame rate video or stills - with one another in realtime.
@@ -112,7 +115,7 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
 - [OBS Studio](https://obsproject.com/)
   - [[jitter](https://cycling74.com/articles/streaming-tips-the-jitter-edition)] [[msp](https://cycling74.com/articles/tips-for-streaming-your-max-patch)]
 - [restream](https://restream.io/) - Restream allows you to stream live to 30+ social platforms at once.
-- [Skype](https://www.skype.com/) - a telecommunications application that specializes in providing video chat and voice calls between computers, tablets, mobile devices, the Xbox One console, and smartwatches over the Internet. 
+- [Skype](https://www.skype.com/) - a telecommunications application that specializes in providing video chat and voice calls between computers, tablets, mobile devices, the Xbox One console, and smartwatches over the Internet.
 - [sococo](https://www.sococo.com/) - online workplace where distributed teams come to work together each day, side-by-side.
 - [streamlabs](https://github.com/stream-labs/streamlabs-obs/) - open source streaming software built on OBS and Electron.
 - [Streamyard](https://streamyard.com) - In-browser streaming studio, with basic free option and paid tiers.
@@ -142,10 +145,10 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
 - [producthunt](https://www.producthunt.com/)
 
 <p>
-  <details><summary>Feel free to cite this:</summary> 
-    
+  <details><summary>Feel free to cite this:</summary>
 
-style | reference    
+
+style | reference
 --- | ---
 MLA 8th | Hamido, Omar Costa, and Michael Dessen. Awesome Networked Media. 2020. 2020. GitHub, https://github.com/omarcostahamido/awesome-networked-media.
 APA 7th | Hamido, O. C., & Dessen, M. (2020). Awesome Networked Media. https://github.com/omarcostahamido/awesome-networked-media (Original work published 2020)
