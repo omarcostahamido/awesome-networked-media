@@ -88,6 +88,7 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
 - [TPF](https://gitlab.zhdk.ch/TPF) - low-latency audio transmission software based on the jacktrip protocol and built in Pure Data.
 - [Virtual Rehearsal Room](https://vrr.iem.sh/) - [Pd based] an Auditory Virtual Environment for musicians playing together @home , @studio and @stage.
 - [VST Connect](https://new.steinberg.net/vst-connect/) - a fully-featured, remote recording solution that lets anybody record a musician or other performer in professional quality, regardless of where each of them is on the planet.
+- [Zita-njbridge](https://kokkinizita.linuxaudio.org/linuxaudio/index.html) - Simple CLI Jack-to-network/network-to-Jack bridging software
 
 ### Video Routing
 
