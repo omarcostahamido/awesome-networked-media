@@ -151,10 +151,10 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
 
 style | reference
 --- | ---
-MLA 8th | Hamido, Omar Costa, and Michael Dessen and Guillaume Pellerin. Awesome Networked Media. 2020. 2020. GitHub, https://github.com/omarcostahamido/awesome-networked-media.
-APA 7th | Hamido, O. C., & Dessen, M., & Pellerin, G. (2020). Awesome Networked Media. https://github.com/omarcostahamido/awesome-networked-media (Original work published 2020)
-Chicago 17th | Hamido, Omar Costa, and Michael Dessen, and Guillaume Pellerin. Awesome Networked Media, 2020. https://github.com/omarcostahamido/awesome-networked-media.
-IEEE | [1]O. C. Hamido and M. Dessen and G. Pellerin, Awesome Networked Media. 2020.
+MLA 8th | Hamido, Omar Costa, and Michael Dessen and Guillaume Pellerin and Jules Penuchot. Awesome Networked Media. 2020. 2020. GitHub, https://github.com/omarcostahamido/awesome-networked-media.
+APA 7th | Hamido, O. C., & Dessen, M., & Pellerin, G., & Penuchot, J. (2020). Awesome Networked Media. https://github.com/omarcostahamido/awesome-networked-media (Original work published 2020)
+Chicago 17th | Hamido, Omar Costa, and Michael Dessen, and Guillaume Pellerin, and Jules Penuchot. Awesome Networked Media, 2020. https://github.com/omarcostahamido/awesome-networked-media.
+IEEE | [1]O. C. Hamido and M. Dessen and G. Pellerin and J. Penuchot, Awesome Networked Media. 2020.
 
 BibTeX | [here](https://github.com/omarcostahamido/awesome-networked-media/blob/master/awesome%20networked%20media.bib)
 
