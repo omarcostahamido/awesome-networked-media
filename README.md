@@ -33,7 +33,7 @@ This is a list of real-time software tools for routing audio and video streams b
 - [simplejack](https://github.com/mildsunrise/simplejack) - This Nodejs module enables you to register simple JACK clients.
 - [Sound Control](https://staticz.com/soundcontrol/) (mac only) - per app volume, eq, and device routing control.
 - [Soundflower](https://github.com/mattingalls/Soundflower) (mac-only) - creates 2 loopback audio devices (2ch and 64ch).
-- [VB Cable](https://www.vb-audio.com/Cable/) (windows-only) - VB-CABLE is a virtual audio device working as virtual audio cable.
+- [VB Cable](https://www.vb-audio.com/Cable/) (windows and mac) - VB-CABLE is a virtual audio device working as virtual audio cable.
 - [Virtual Audio Capture Device](https://github.com/rdp/virtual-audio-capture-grabber-device) (windows-only) - free audio capture device to capture all the "wave out sound" that is playing on your speakers.
 
 ### Audio Networking
