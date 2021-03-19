@@ -137,6 +137,8 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
 
 - [bf-pd](http://bf-collab.net/) -  Pure Data based software that allows musicians to share parameters and output data between instruments, to control each other’s instruments, to synchronize between instruments, to visualize each other’s activity, and to exchange messages
   - [[gitlab](https://gitlab.cristal.univ-lille.fr/boeuf/bf-pd)]
+- [fourhands](https://github.com/jminjie/fourhands) - Fourhands uses WebRTC to establish p2p connetions for minimal latency 2-person jamming using MIDI keyboards.
+
 - [link](https://www.ableton.com/en/link/) - Ableton Link is a technology that keeps devices in time over a local network.
 
 - [Network-Based Collaborative Music Making](https://stefanofasciani.com/?p=1550) - a list of different tools and other references related to networked media, by Stefano Fasciani.
