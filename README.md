@@ -42,6 +42,7 @@ This is a list of real-time software tools for routing audio and video streams b
 - [Aloha](https://alohabyelk.com/) - 5G ready service for real-time remote collaboration and performance
 - [AOO](https://git.iem.at/cm/aoo) - Audio over OSC is aimed to be a message based audio system using Open Sound Control OSC_ as a syntax format.
 - [Artsmesh](https://www.artsmesh.com/) (mac-only) - All-in-one app for networked music based on jacktrip allowing for P2P (up to 16 ch) and Broadcasting.
+- [Beatshifting](https://caffeine.js.org/beatshifting/) - Browser-based collaborative remote music performance that is synchronized and out-of-phase.
 - [Cleanfeed](https://cleanfeed.net/) - multitrack, multi-party live audio and recording using only a browser.
 - [EasyRTC](https://github.com/open-easyrtc/open-easyrtc) - WebRTC based implementation, originally forked from [priologic](https://github.com/priologic/).
   - [[website](https://easyrtc.com/products/easyrtc/)]
