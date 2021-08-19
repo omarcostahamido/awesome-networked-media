@@ -141,7 +141,8 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
   - [[gitlab](https://gitlab.cristal.univ-lille.fr/boeuf/bf-pd)]
 - [CidReaderWeb](www.cidreader.com) - A room based open source cooperative realtime PDF reader for the web.
 - [fourhands](https://github.com/jminjie/fourhands) - Fourhands uses WebRTC to establish p2p connetions for minimal latency 2-person jamming using MIDI keyboards.
-
+- [Intersymmetric Sequencer 1](https://intersymmetric.xyz/) - real-time multiplayer collaborative drum machine sequencer in the browser.
+  - [github](https://github.com/jamesb93/intersymmetric)
 - [link](https://www.ableton.com/en/link/) - Ableton Link is a technology that keeps devices in time over a local network.
 
 - [Network-Based Collaborative Music Making](https://stefanofasciani.com/?p=1550) - a list of different tools and other references related to networked media, by Stefano Fasciani.
