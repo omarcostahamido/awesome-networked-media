@@ -116,7 +116,7 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
 - [mediaXploration](https://mediax.stanford.edu/featured-events/mediaxploration/) - an experimental virtual and immersive environment.
 - [OBS Studio](https://obsproject.com/)
   - [[jitter](https://cycling74.com/articles/streaming-tips-the-jitter-edition)] [[msp](https://cycling74.com/articles/tips-for-streaming-your-max-patch)]
-- [OBS.ninja](https://obs.ninja/) - Bring live video from your smartphone, remote computer, or friends directly into OBS or other studio software.
+- [VDO.ninja](https://vdo.ninja/) - Bring live video from your smartphone, remote computer, or friends directly into OBS or other studio software.
 - [restream](https://restream.io/) - Restream allows you to stream live to 30+ social platforms at once.
 - [Skype](https://www.skype.com/) - a telecommunications application that specializes in providing video chat and voice calls between computers, tablets, mobile devices, the Xbox One console, and smartwatches over the Internet.
 - [sococo](https://www.sococo.com/) - online workplace where distributed teams come to work together each day, side-by-side.
