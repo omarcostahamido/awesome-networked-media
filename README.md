@@ -140,6 +140,7 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
 - [bf-pd](http://bf-collab.net/) -  Pure Data based software that allows musicians to share parameters and output data between instruments, to control each other’s instruments, to synchronize between instruments, to visualize each other’s activity, and to exchange messages
   - [[gitlab](https://gitlab.cristal.univ-lille.fr/boeuf/bf-pd)]
 - [CidReaderWeb](www.cidreader.com) - A room based open source cooperative realtime PDF reader for the web.
+- [Collab-Hub](https://www.collab-hub.io/) - Collab-Hub is a tool that helps artists, musicians, circuit-benders, game developers, and creative coders share data effortlessly between remote systems and collaborators (or on the same local network).
 - [fourhands](https://github.com/jminjie/fourhands) - Fourhands uses WebRTC to establish p2p connetions for minimal latency 2-person jamming using MIDI keyboards.
 - [Intersymmetric Sequencer 1](https://intersymmetric.xyz/) - real-time multiplayer collaborative drum machine sequencer in the browser.
   - [github](https://github.com/jamesb93/intersymmetric)
