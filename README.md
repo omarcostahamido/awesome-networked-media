@@ -46,6 +46,7 @@ This is a list of real-time software tools for routing audio and video streams b
 - [Cleanfeed](https://cleanfeed.net/) - multitrack, multi-party live audio and recording using only a browser.
 - [EasyRTC](https://github.com/open-easyrtc/open-easyrtc) - WebRTC based implementation, originally forked from [priologic](https://github.com/priologic/).
   - [[website](https://easyrtc.com/products/easyrtc/)]
+- [FarPlay] (https://farplay.io) - low latency app for 2 players, Mac/Win/Linux
 - [Fastmusic Box](http://symonics.com/fastmusic/) - hardware package with pre configured setup based on soundjack.eu
 - [icecast](https://icecast.org/) - streaming media server which currently supports Ogg (Vorbis and Theora), Opus, WebM and MP3 streams.
   - [butt](https://danielnoethen.de/butt/) - butt (broadcast using this tool) is a streaming tool that supports SHOUTcast and Icecast.
@@ -122,6 +123,7 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
 - [sococo](https://www.sococo.com/) - online workplace where distributed teams come to work together each day, side-by-side.
 - [streamlabs](https://github.com/stream-labs/streamlabs-obs/) - open source streaming software built on OBS and Electron.
 - [Streamyard](https://streamyard.com) - In-browser streaming studio, with basic free option and paid tiers.
+- [timingsrc] (https://github.com/webtiming/timingsrc) - Source code for timing related libraries managed by webtiming (multi-device timing CG)
 - [Touchdesigner](https://derivative.ca/)
   - [[broadcasting](https://derivative.ca/community-post/broadcasting-social-media-touchdesigner/62737)] [[zoom](https://derivative.ca/community-post/tutorial/touchdesigner-zoom/62762)] [[2020.22080](https://forum.derivative.ca/t/official-build-2020-22080-posted/131128)] [[iglive](https://derivative.ca/community-post/tutorial/streaming-instagram-live/62828)]
 - [UltraGrid](http://www.ultragrid.cz/)
