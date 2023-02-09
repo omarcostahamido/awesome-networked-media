@@ -102,6 +102,8 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
 - [shmdata](https://gitlab.com/sat-metalab/shmdata) - Library to share streams of framed data between processes via shared memory.
 - [Spout](https://spout.zeal.co/) (windows-only) - Realtime video sharing framework for Windows (similar to Syphon).
 - [Syphon](http://syphon.v002.info/) (mac-only) - Mac OS X technology that allows applications to share frames - full frame rate video or stills - with one another in realtime.
+- [Syphon Virtual Webcam](https://community.troikatronix.com/topic/6742/syphon-virtual-webcam) (mac-only) - free, open-source app for macOS that routes Syphon video to a virtual web cam, allowing apps that don't offer Syphon input to receive a Syphon video signal.
+  - [[github](https://github.com/TroikaTronix/Syphon-Virtual-Webcam)]
 
 ### Video Networking
 
