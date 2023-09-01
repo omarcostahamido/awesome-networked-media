@@ -28,8 +28,9 @@ This is a list of real-time software tools for routing audio and video streams b
 - [OBSAudioRouter](https://github.com/lysdexic-audio/OBSAudioRouter) (mac-only) - A simple microphone + external audiodevices passthrough/rerouter for MacOS
 - [ODeus ASIO Link Pro](https://give.academy/posts/2018/03/02/AsioLinkPro/) (windows-only) - driver level audio routing solution for windows
 - [pd~](http://msp.ucsd.edu/software.htm) - max/msp external that allows Max to call a Pd subprocess.
-- [PipeWire](https://pipewire.org/) (linux only) a project that aims to greatly improve handling of audio and video under Linux.
-- [PulseAudio](https://www.freedesktop.org/wiki/Software/PulseAudio/) PulseAudio is a sound system for POSIX OSes, meaning that it is a proxy for your sound applications.
+- [PipeWire](https://pipewire.org/) (linux only) - a project that aims to greatly improve handling of audio and video under Linux.
+- [PulseAudio](https://www.freedesktop.org/wiki/Software/PulseAudio/) - PulseAudio is a sound system for POSIX OSes, meaning that it is a proxy for your sound applications.
+- [qpwgraph](https://github.com/rncbc/qpwgraph) (linux only) - qpwgraph is a graph manager dedicated to PipeWire, using the Qt C++ framework, based and pretty much like the same of QjackCtl.
 - [simplejack](https://github.com/mildsunrise/simplejack) - This Nodejs module enables you to register simple JACK clients.
 - [Sound Control](https://staticz.com/soundcontrol/) (mac only) - per app volume, eq, and device routing control.
 - [Soundflower](https://github.com/mattingalls/Soundflower) (mac-only) - creates 2 loopback audio devices (2ch and 64ch).
