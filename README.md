@@ -119,6 +119,7 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
 - [Live Lab](https://github.com/ojack/LiveLab)
   - [[culturehub](https://www.culturehub.org/livelab)] [[comparing2zoom](https://docs.google.com/spreadsheets/d/1jJNNtkoSH1FunCPHS2Z05MzdUMkU_KMe71uPimGF94Q/edit#gid=0)]
 - [mediaXploration](https://mediax.stanford.edu/featured-events/mediaxploration/) - an experimental virtual and immersive environment.
+- [MiroTalk P2P](https://github.com/miroslavpejic85/mirotalk) - Free webRTC - P2P - simple, secure, fast real-time video conferences with support for up to 4k resolution and 60fps.
 - [OBS Studio](https://obsproject.com/)
   - [[jitter](https://cycling74.com/articles/streaming-tips-the-jitter-edition)] [[msp](https://cycling74.com/articles/tips-for-streaming-your-max-patch)]
 - [VDO.ninja](https://vdo.ninja/) - Bring live video from your smartphone, remote computer, or friends directly into OBS or other studio software.
