@@ -115,6 +115,7 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
 - [Google Hangouts](https://hangouts.google.com/)
 - [Google Meet](https://meet.google.com/)
 - [iWebVisit](https://www.iwebvisit.com/) - Inmate visitation online app.
+- [Janus](https://janus.conf.meetecho.com/) - general purpose WebRTC Server.
 - [Jitsi](https://jitsi.org/) - free video conferencing in the browser, similar to Zoom.
 - [Live Lab](https://github.com/ojack/LiveLab)
   - [[culturehub](https://www.culturehub.org/livelab)] [[comparing2zoom](https://docs.google.com/spreadsheets/d/1jJNNtkoSH1FunCPHS2Z05MzdUMkU_KMe71uPimGF94Q/edit#gid=0)]
@@ -122,7 +123,6 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
 - [MiroTalk P2P](https://github.com/miroslavpejic85/mirotalk) - Free webRTC - P2P - simple, secure, fast real-time video conferences with support for up to 4k resolution and 60fps.
 - [OBS Studio](https://obsproject.com/)
   - [[jitter](https://cycling74.com/articles/streaming-tips-the-jitter-edition)] [[msp](https://cycling74.com/articles/tips-for-streaming-your-max-patch)]
-- [VDO.ninja](https://vdo.ninja/) - Bring live video from your smartphone, remote computer, or friends directly into OBS or other studio software.
 - [restream](https://restream.io/) - Restream allows you to stream live to 30+ social platforms at once.
 - [Skype](https://www.skype.com/) - a telecommunications application that specializes in providing video chat and voice calls between computers, tablets, mobile devices, the Xbox One console, and smartwatches over the Internet.
 - [sococo](https://www.sococo.com/) - online workplace where distributed teams come to work together each day, side-by-side.
@@ -135,6 +135,7 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
   - [[Spout/Syphon](https://iaspace.zhdk.ch/wiki/ultragrid/)]
 - [UpStage](https://upstage.org.nz/) - a platform for cyberformance: remote players combine digital media in real-time for an online audience. All you need is a web browser!
   - resources: [[github](https://github.com/upstage-org)] [[https://en.wikipedia.org/wiki/UpStage](wiki)]
+- [VDO.ninja](https://vdo.ninja/) - Bring live video from your smartphone, remote computer, or friends directly into OBS or other studio software.
 - [VLC](https://www.videolan.org/vlc/) - cross-platform multimedia player and framework.
   - [[stream](https://forums.tomsguide.com/faq/how-to-stream-videos-over-the-internet-with-vlc.23235/)]
 - [Whereby](https://whereby.com/)
