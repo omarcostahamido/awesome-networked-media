@@ -66,6 +66,8 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
   - [[lines](https://llllllll.co/t/ninjam-network-jam-session/7767)]
 - [Jamtrip](https://github.com/vicwomg/jamtrip) - A cross-platform, electron-based, graphical user interface (GUI) front end for JackTrip and JACK.
 - [Jamulus](https://github.com/corrados/jamulus) - software that enables musicians to perform real-time jam sessions over the internet, with clients connecting to a central server.
+- [Link Audio](https://www.youtube.com/watch?v=dL5AZ5s8VLc) - Ableton protocol that lets you and your peers stream audio between Link Audio-enabled devices on a local network in real time.
+  - see also: [[Live 12.4 is coming](https://www.ableton.com/en/blog/live-12-4-is-coming/)]
 - [Listento](https://audiomovers.com/) - latency between 0.1 and 1 sec (PCM16 bit, PCM24 bit, PCM32 bit, AAC128, AAC192).
 - [netsend~](http://www.nullmedium.de/dev/netsend~/) - (old) streaming externals for Max/MSP and Pure Data that allow high quality, uncompressed multichannel audio to be transmitted over LAN or Internet2 with very low latency.
   - see also: [[udpsend~](https://github.com/pd-l2ork/pd/blob/master/externals/mrpeach/net/udpsend~.c)] [[~bcast](https://github.com/joniemi/dist-conv)]
@@ -152,7 +154,7 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
 - [fourhands](https://github.com/jminjie/fourhands) - Fourhands uses WebRTC to establish p2p connetions for minimal latency 2-person jamming using MIDI keyboards.
 - [Intersymmetric Sequencer 1](https://intersymmetric.xyz/) - real-time multiplayer collaborative drum machine sequencer in the browser.
   - [github](https://github.com/jamesb93/intersymmetric)
-- [link](https://www.ableton.com/en/link/) - Ableton Link is a technology that keeps devices in time over a local network.
+- [Link](https://www.ableton.com/en/link/) - Ableton Link is a technology that keeps devices in time over a local network.
 
 - [Network-Based Collaborative Music Making](https://stefanofasciani.com/?p=1550) - a list of different tools and other references related to networked media, by Stefano Fasciani.
 - [networkedmusicperformance](https://www.zotero.org/groups/2520287/networkedmusicperformance/items/7I4ZA6KZ/library) - a zotero library of references related to networked music performance.
