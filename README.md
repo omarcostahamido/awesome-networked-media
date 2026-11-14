@@ -111,6 +111,7 @@ jstoltenberg](https://www.youtube.com/playlist?list=PLOwImupx7XmMcUlDusRKLX6qGAK
 
 ### Video Networking
 
+- [The Andor 1](https://www.andorgallery.com/andor.html) (raspberry pi only) - The Andor 1 is a wirelessly synchronizing standalone media player.
 - [Artsmesh](https://www.artsmesh.com/) (mac-only) - All-in-one app for networked music based on jacktrip allowing for P2P (up to 16 ch) and Broadcasting.
 - [Digital Stage](https://digital-stage.org/) - multi platform implementation for audio-video conference call for art, music and theater companies to rehearse.
 - [Gather](https://gather.town/) - Proximity video chat in fully customizable, 2D interactive spaces
